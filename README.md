@@ -1,2 +1,2 @@
 # MutabilityExample
-A quick example to show immutability issues in Kotlin/Java
+A quick example to show mutability issues in Kotlin/Java
